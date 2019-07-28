@@ -12,7 +12,7 @@
 #include <linux/tpm.h>
 
 #define MIN_KEY_SIZE			32
-#define MAX_KEY_SIZE			128
+#define MAX_KEY_SIZE			256
 #define MAX_BLOB_SIZE			512
 #define MAX_PCRINFO_SIZE		64
 #define MAX_DIGEST_SIZE			64
